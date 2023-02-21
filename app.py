@@ -56,7 +56,7 @@ with col2.expander("Step 7: Click here to see the monthly mortgage payment:"):
     
 tax= col2.number_input("Step 8 (optional): enter the property tax (monthly payment)",value=150)    
 
-insurance= col2.number_input("Step 9 (optional): insutrance (monthly payment)",value=100)    
+insurance= col2.number_input("Step 9 (optional): insurance (monthly payment)",value=100)    
 
 HOAmonthlyFee=col2.number_input("Step 10 (optional): HOA (Home Owner Association) monthly payment",value=200)    
     
